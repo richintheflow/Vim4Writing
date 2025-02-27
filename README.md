@@ -16,4 +16,4 @@ Vim4Writing is the ideal vim configuration to write novels and prose.
 <F8> English Thesaurus activated
 <F9> Spanish Thesaurus activated
 
-When a thesaurus is activated, it can't switch to another. So it needs to  be set at the beginning.
+When a thesaurus is activated, it can't switch to another one. So it needs to  be set from the launch.
