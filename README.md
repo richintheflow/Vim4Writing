@@ -7,13 +7,13 @@ It also contains 3 thesaurus and 3 dictionaries in French, English and     Spani
 
 Vim4Writing is the ideal vim configuration to write novels and prose.
 
-'<F3>' no spell configuration
-'<F4>' French dictionary activated
-'<F5>' English dictionary activated
-'<F6>' Spanish dictionary activated
+'F3' no spell configuration
+'F4' French dictionary activated
+'F5' English dictionary activated
+'F6' Spanish dictionary activated
 
-'<F7>' French Thesaurus activated
-'<F8>' English Thesaurus activated
-'<F9>' Spanish Thesaurus activated
+'F7' French Thesaurus activated
+'F8' English Thesaurus activated
+'F9' Spanish Thesaurus activated
 
 When a thesaurus is activated, it can't switch to another one. So it needs to  be set from the launch.
