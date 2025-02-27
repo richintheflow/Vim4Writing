@@ -6,6 +6,10 @@ set wrapmargin=0
 set wrap
 set linebreak
 set columns=75
+nmap <F12> :set columns=75<CR>
+
+:highlight VertSplit guifg=bg guibg=bg
+:highlight NonText   guifg=bg
 
 nnoremap j gj
 nnoremap k gk
@@ -24,4 +28,3 @@ nmap <F3> :set nospell<CR>
 nmap <F4> :set spell spelllang=fr<CR>
 nmap <F5> :set spell spelllang=en<CR>
 nmap <F6> :set spell spelllang=sp<CR>
-
