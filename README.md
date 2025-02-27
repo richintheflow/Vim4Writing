@@ -1,6 +1,6 @@
 # Vim4Writing
 
-The package includes a .vimrc file with essential settings tailored for novel writing. It features a 75-character soft wrap configuration, along with a word count display at the bottom of the screen. The word count also includes a line that aggregates the total number of words in the current paragraph, making it easier to manage and format your text.
+The package includes a .vimrc file with essential settings tailored for novel writing. It features a 75-character soft wrap configuration, along with a word count display at the bottom of the screen. The word count also includes a line that aggregates the total number of words in the current paragraph, making it easier to manage and format your text. 'F12' rewrap the text if there is a window change width.
 
 Additionally, the setup comes with three dictionaries (French, English, and Spanish) and three thesauruses (French, English, and Spanish), ensuring comprehensive language support.
 
