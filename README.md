@@ -1,11 +1,10 @@
 # Vim4Writing
 
-It contains the .vimrc file with the basic configuration to write a novel  with a 75 characters soft auto wrap configuration and a word count line    added at the bottom. 
-The line counting is also configured to see a total paragraph in one line. It helps to format the text. 
+The package includes a .vimrc file with essential settings tailored for novel writing. It features a 75-character soft wrap configuration, along with a word count display at the bottom of the screen. The word count also includes a line that aggregates the total number of words in the current paragraph, making it easier to manage and format your text.
 
-It also contains 3 thesaurus and 3 dictionaries in French, English and     Spanish.
+Additionally, the setup comes with three dictionaries (French, English, and Spanish) and three thesauruses (French, English, and Spanish), ensuring comprehensive language support.
 
-Vim4Writing is the ideal vim configuration to write novels and prose.
+Vim4Writing is the ideal Vim configuration for writing novels and prose.
 
 'F3' no spell configuration
 'F4' French dictionary activated
@@ -16,4 +15,4 @@ Vim4Writing is the ideal vim configuration to write novels and prose.
 'F8' English Thesaurus activated
 'F9' Spanish Thesaurus activated
 
-When a thesaurus is activated, it can't switch to another one. So it needs to  be set from the launch.
+Please note that once a thesaurus is activated, it cannot be switched to another during the session. It must be set at launch.
